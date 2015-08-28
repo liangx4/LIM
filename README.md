@@ -28,6 +28,6 @@ Preview:
 
 COPYRIGHT
 
-The LIM theme is entirely uncopyrighted  use as you like, spread it, sell it, do whatever you want.
+The LIM theme is entirely uncopyrighted. So use as you like(but make sure to get rid of all the personalizations I made), spread it, sell it, do whatever you want.
 
 Enjoy! 
