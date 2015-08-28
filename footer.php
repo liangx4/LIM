@@ -7,6 +7,7 @@
 	<p>
 	<a href="/">Homepage</a> :: <a href="/about-me/">About me</a> :: <a href="/archives/">Archives</a> :: <a href="/neighbors/">Neighbors</a> 
 	</p>
+	/* I am proud to say that I kept them all in 8 characters. */ 
 <br/>
 <li>Xiao Liang &copy; 2014</li>
 </ul>
