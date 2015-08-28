@@ -1,7 +1,6 @@
 <?php
 /**
- * @package WordPress
- * @subpackage Dogma
+Super messy!
  */
 /*
 Template Name: All Posts
