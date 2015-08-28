@@ -1,0 +1,48 @@
+/*   
+Theme Name: LIM
+Description: An extremely minimalist theme, inspired by 'dogma' and 'mnmlist'.
+Author: Xiao Liang
+Author URI: liangxiao.me
+Tags: minimalist, white, one-column
+This theme is uncopyrighted, free, and offered as is.
+
+.
+*/
+
+body 		{ width:50em; margin:0 0 120px 120px; font:15px/1.6em Consolas, monaco, monospace, "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif; color:#OOO; background:#FFF; }
+h1 		{ margin:120px 0 1.4em 0; font-size:1em; font-weight:bold }
+h2		{ margin:0 0 1.4em 0; font-size:1em; font-weight:bold }
+h3 		{ margin:120px 0 1.4em 0; font-size:1em; font-weight:bold }
+p 		{ margin:0 0 1.4em 0 }
+a 		{ color:#000; text-decoration:none }
+.marklet 	{ color:#000; border:1px solid #000; padding:0 .2em; }
+
+ul, ol 		{ margin:0 0 1.4em 0; padding:0; }
+ul		{margin:0 0 1.4em 15px;}
+
+ul li 		{ list-style:circle; margin:0 }
+ol li 		{ list-style:decimal; margin:0; list-style-position:inside; }
+
+ul.l, ul.f 	{ margin-left:0; }
+ul.l li, ul.f li 	{ list-style:none; margin:0; padding:0 }
+
+blockquote	{ border-left:1px solid #A5ABAB; margin:0px; padding:0 12px 0 12px; font-style:italic;  }
+
+
+@media (max-width: 880px) {
+body 		{ width:80%; margin:0 0 10% 10%; font-size:14px; line-height:1.7em }
+h1, h2 		{ margin-top:10% }
+}
+#footer {margin-left:115px}
+#footer {background:#fff; clear: both;}
+#footer p{padding:4px 0;margin: 0; color: #666; font-size:13px; font-family:"Helvetica Neue", "Helvetica", "Hiragino Sans GB", "Source Han Sans", "Microsoft YaHei",
+             "WenQuanYi Micro Hei"; letter-spacing:4px}
+#footer a{color: #c0c0c0;text-decoration: none;}
+#footer a:hover{color: #999;text-decoration: none;}
+
+#commentform textarea {
+height:5em;
+}
+.comments-number {
+display:none;
+}
