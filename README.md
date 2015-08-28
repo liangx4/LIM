@@ -24,7 +24,8 @@ Minimal commenting
 
 Just the articles.
 
-
+Preview:
+![alt tag](https://cloud.githubusercontent.com/assets/10344071/9557233/2be522fe-4d8f-11e5-8ea0-4f2a4566ba5c.png)
 
 COPYRIGHT
 
