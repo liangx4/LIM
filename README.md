@@ -8,7 +8,7 @@ Theme URI: http://maartenpkappert.nl/dogma/
 
 INTRODUCING
 
-Dogma is a truly minimalist WordPress theme, following all the ground rules of the minimalist web design dogma. It keeps every aspect of the design to a minimum:
+LIM is a truly minimalist WordPress theme. I modified it from the theme Dogma and mnmlist. It keeps every aspect of the design to a minimum:
 
 1 single page design for every page, with the archive and links to other pages ever present
 1 column
@@ -30,4 +30,4 @@ COPYRIGHT
 
 The LIM theme is entirely uncopyrighted  use as you like, spread it, sell it, do whatever you want.
 
-Enjoy! 
+Enjoy! 
