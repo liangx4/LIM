@@ -1,9 +1,8 @@
 # LIM
-Less is more wordpress theme. Inspired by dogma and mnmlist
+Less is more wordpress theme. Inspired by dogma(http://maartenpkappert.nl/dogma/) and mnmlist(http://mnmlist.com/theme/)
 
 Author: Xiao Liang
 Author URI: http://liangxiao.me/
-Theme URI: http://maartenpkappert.nl/dogma/
 
 
 INTRODUCING
